@@ -1,3 +1,3 @@
-** Thinking frontend ** 
+**Thinking frontend**
 
-Soon more information
+Soon more information...
